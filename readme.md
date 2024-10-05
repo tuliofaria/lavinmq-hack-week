@@ -7,13 +7,13 @@ This repository contains the code for the LavinMQ Hackathon Week. I was trying L
 Crawl and get all links from a given page. These links are published to a queue on LavinMQ.
 
 ```bash
-crystal run craw-page.cr https://www.google.com
+crystal craw-page.cr "https://crystal-lang.org/"
 ```
 
 Consume links from the queue and search for a pattern in the page.
 
 ```bash
-crystal run consumer.cr "Crystal"
+crystal consumer.cr "Crystal"
 ```
 
 ## Installation
@@ -30,6 +30,7 @@ shards install
 ## Author
 
 Tulio Faria (tuliofaria at gmail.com)
+Linkedin: https://www.linkedin.com/in/tuliofaria/
 
 - [Github](https://github.com/tuliofaria)
 - [Twitter](https://twitter.com/tuliofaria)
