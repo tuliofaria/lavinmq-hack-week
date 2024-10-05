@@ -1,0 +1,23 @@
+name: lavinmq-hack-week
+version: 0.1.0
+
+authors:
+  - Tulio Faria <tuliofaria@gmail.com>
+
+# description: |
+#   Short description of lavinmq-hack-week
+dependencies:
+  amqp-client:
+    github: cloudamqp/amqp-client.cr
+  dotenv:
+    github: gdotdesign/cr-dotenv
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
