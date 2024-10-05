@@ -30,7 +30,8 @@ shards install
 ## Author
 
 Tulio Faria (tuliofaria at gmail.com)
-Linkedin: https://www.linkedin.com/in/tuliofaria/
 
+- [Website](https://tuliofaria.dev/)
+- [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
 - [Github](https://github.com/tuliofaria)
 - [Twitter](https://twitter.com/tuliofaria)
